@@ -76,7 +76,6 @@ Your small help goes a long way. :heart:
 
 # GitHub Stats Card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
