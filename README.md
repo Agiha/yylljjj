@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&theme=gruvbox)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&theme=radical)
