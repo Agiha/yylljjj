@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&theme=gruvbox&bg_color=linear-gradient(to bottom, #fe4d3d, #fe4d3d))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&theme=highcontrast)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&theme=gruvbox)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yylljjj&show_icons=true&theme=radical)
