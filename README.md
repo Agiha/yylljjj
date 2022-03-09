@@ -141,14 +141,6 @@ Windows                  51 mins             ███████████�
 </tr>
 </table>
 
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 <!-- Wakatime Graph-->
 <table>
