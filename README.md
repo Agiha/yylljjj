@@ -21,7 +21,7 @@
     <br />
     <br />
     <a href="https://www.theapis.xyz">
-      <img src="https://www.theapis.xyz/static/img/apis_logo.png"/>
+      <img margin="auto" src="https://www.theapis.xyz/static/img/apis_logo.png"/>
     </a>
   </p>
 
