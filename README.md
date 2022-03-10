@@ -1,5 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ ![image](https://user-images.githubusercontent.com/100832362/157609022-c1820def-200e-4740-851c-c0e31f7e008f.png)
+
  <h2 align="center">The APIS Readme Stats</h2>
 <!--  <p align="center">Get dynamically generated GitHub stats on your readmes!</p> -->
 </p>
