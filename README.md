@@ -24,7 +24,7 @@
   </p>
 
 <h2 align="center">A Decentralized, Scalable Read-Write Solution for Blockchains</h2>
-<p align="center">
+<p align="left">
 We propose APIS, a middleware protocol for the functioning of a decentralized
 read-write protocol, allowing for the mainstream growth of a fully decentralized finance and
 decentralized web architecture. Current data index and querying solutions are either
