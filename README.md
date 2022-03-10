@@ -23,39 +23,6 @@
     </a>
   </p>
 
-  <p align="center">
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
-  </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
-</p>
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
-
 
 <p>
 <a href="https://indiafightscorona.giveindia.org">
@@ -70,7 +37,20 @@ Thousands of people are dying in India for lack of Oxygen & COVID related necess
 Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) and make a small donation to help us fight covid and overcome this crisis.   
 Your small help goes a long way. :heart:
 </p>
+# Directory
 
+- [GitHub Stats Card](#github-stats-card)
+- [GitHub Extra Pins](#github-extra-pins)
+- [Top Languages Card](#top-languages-card)
+- [Wakatime Week Stats](#wakatime-week-stats)
+- [Themes](#themes)
+- [Customization](#customization)
+  - [Common Options](#common-options)
+  - [Stats Card Exclusive Options](#stats-card-exclusive-options)
+  - [Repo Card Exclusive Options](#repo-card-exclusive-options)
+  - [Language Card Exclusive Options](#language-card-exclusive-options)
+  - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
+- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
 # GitHub Stats Card
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
