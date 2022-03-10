@@ -19,8 +19,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a> -->
-  
-    <br />
+   
     <a href="https://www.theapis.xyz">
       <img margin="auto" src="https://www.theapis.xyz/static/img/apis_logo.png"/>
     </a>
